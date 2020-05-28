@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  part_number: "123345"
+  branch_id: TUC
+  part_price: 1.5
+  short_desc: this is a product that is one
+
+two:
+  part_number: "123456"
+  branch_id: CIN
+  part_price: 2.5
+  short_desc: this is a product that is two
+
+three:
+  part_number: "123456s"
+  branch_id: LA
+  part_price: 2.5
+  short_desc: this is a product that is two
